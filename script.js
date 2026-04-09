@@ -1,0 +1,1 @@
+alert("This may delete the entire content");
